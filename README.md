@@ -1,4 +1,4 @@
-# Hi there 👋🏾, I'm Nontuthuko (Nsele)  
+# Hi there 👋🏾, I'm Nontuthuko Nsele 
 
 🎓 MSc Human Physiology Candidate | Biomedical Scientist  
 💻 Aspiring Clinical Data Analyst | Exploring SQL, Python & Power BI  
