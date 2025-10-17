@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋🏾, I'm Nontuthuko (Nsele)  
 
-<!--
-**NseleAnalytics/NseleAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Human Physiology Candidate | Biomedical Scientist  
+💻 Aspiring Clinical Data Analyst | Exploring SQL, Python & Power BI  
+🌍 Based in Johannesburg, South Africa  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩🏾‍🔬 About Me
+I'm a Biomedical Scientist passionate about combining **research, data analytics, and digital health innovation** to improve patient outcomes and public health.  
+Currently, I'm learning **SQL, Python, and Power BI** to bridge the gap between healthcare and technology.  
+
+---
+
+### 🧠 What I’m Learning
+- SQL for data management and healthcare analytics  
+- Python for data cleaning and visualization  
+- Power BI for building interactive dashboards  
+- Good Clinical Practice (GCP) for clinical data management  
+
+---
+
+### 💼 Let’s Connect
+- 💻 [LinkedIn](https://linkedin.com/in/nontuthuko-nsele-50173012a)
+- 📧 Email: nononsele@gmail.com  
+
